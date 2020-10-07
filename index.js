@@ -76,10 +76,10 @@ function Baby() {
   TASK 4
 
   In your own words explain the four principles for the "this" keyword below:
-  1. 
-  2. 
-  3. 
-  4. 
+  1. Global scope applies to the console window, and what is on the screen.
+  2. Implicit binding is similar to dot notation, in that it summons what you want on the left of the dot.
+  3. New binding allows you to edit a function with 'new', and apply new info in that one instant.
+  4. Explicit binding is using .call and .apply to add values.
 */
 
 
